@@ -2,6 +2,8 @@
 
 Shuffle any string e.g. "hello"  => "loleh"
 
+[![Gem Version](https://badge.fury.io/rb/string_shuffle.svg)](https://badge.fury.io/rb/string_shuffle)
+
 ## Installation
 
 Add this line to your application's Gemfile:
